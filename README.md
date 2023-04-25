@@ -7,3 +7,5 @@ Desenvolvimento de uma aplicação frontend com HTML/CSS para construção e res
 <img src="img/captura.png"/>
 
 ## Versão 002
+
+<img src="img/captura-2.png"/>
