@@ -1,15 +1,19 @@
-# Portfolio - HTML/CSS
+# Portfólio Olá, Bem vindo ao meu projeto de portfólio.
 
-Desenvolvimento de uma aplicação frontend com HTML/CSS para construção e resolução de problemas ao personalizar uma interface de portfólio.
+![image](assets/video-portfolio.gif)
 
-## Versão 001
+## Ferramentas utilizadas:
 
-<img src="img/captura.png"/>
+- HTML
+- CSS
+- Flex-box
 
-## Versão 002
+## Feito por:
 
-<img src="img/captura-2.png"/>
+Mateus Maciel
 
-## Versão 003
+### Linkedin: 
 
-<img src="assets/video-portfolio.gif"/>
+[Linkedin](https://www.linkedin.com/in/mateusdev340/)
+
+```
